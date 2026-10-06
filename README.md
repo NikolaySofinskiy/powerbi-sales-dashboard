@@ -28,7 +28,7 @@
 Данные представлены **четырьмя независимыми источниками разных форматов** — это специально усложняет ETL и показывает работу Power Query с разными типами файлов.
 
 ### 1. Факт продаж (`sales.xlsx`)
-<img width="1172" height="347" alt="image" src="https://github.com/user-attachments/assets/714f11a0-c5cf-495e-a687-ad11f6145c6b" />
+<img width="1415" height="349" alt="image" src="https://github.com/user-attachments/assets/4b253cb6-7b1e-4530-b420-6c6b76f3094e" />
 Одна строка = одна продажа. Формат — длинный, но с «грязными» промежуточными строками.
 
 **Особенности:**
