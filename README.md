@@ -149,17 +149,15 @@ PDF-файл с прайсом на товары.
 - загружаем таблицу - закрыть и применить
 
 ### 3. Модель данных
+Устанавливаем связи в модели данных
+<img width="1122" height="756" alt="image" src="https://github.com/user-attachments/assets/c3cf2ba3-7b52-4d33-873b-1e789d262e36" />
 
 Схема — **«звезда» (star schema)**:
 
-- **Таблица фактов:** `SalesPrepared`
-- **Таблицы измерений:** `CustomersPrepared`, `ProductsPrepared`, `RegionsPrepared`, `Календарь`
+- **Таблица фактов:** `Sales`
+- **Таблицы измерений:** `Price`, `Customers`, `Regions`
 
-Связи:
-- `SalesPrepared[Код клиента]` → `CustomersPrepared[Номер]`
-- `SalesPrepared[Артикул]` → `ProductsPrepared[Артикул]`
-- `SalesPrepared[Дата продажи]` → `Календарь[Дата]`
-- `CustomersPrepared[Город]` → `RegionsPrepared[Город]`
+
 
 ### 4. Меры DAX
 
