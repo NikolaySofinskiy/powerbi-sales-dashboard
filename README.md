@@ -41,7 +41,7 @@
 ⚠️ В таком виде файл **не подходит для модели данных** — требуется очистка.
 
 ### 2. Справочник клиентов (`customers.xml`)
-<img width="1368" height="700" alt="image" src="https://github.com/user-attachments/assets/50a75233-bfd1-4894-bd3a-b89090082700" />
+<img width="1616" height="409" alt="image" src="https://github.com/user-attachments/assets/05317481-ac6d-4f6c-a9fe-f6f6ac7b8558" />
 XML-файл со списком компаний.
 
 **Поля:** Номер, Компания, Местоположение.
