@@ -44,6 +44,8 @@
 
 ### 2. Справочник клиентов (`customers.xml`)
 
+<img width="1368" height="700" alt="image" src="https://github.com/user-attachments/assets/50a75233-bfd1-4894-bd3a-b89090082700" />
+
 XML-файл со списком компаний.
 
 **Поля:** Номер, Компания, Местоположение.
