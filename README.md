@@ -150,6 +150,7 @@ PDF-файл с прайсом на товары.
 
 ### 3. Модель данных
 Устанавливаем связи в модели данных
+
 <img width="1122" height="756" alt="image" src="https://github.com/user-attachments/assets/c3cf2ba3-7b52-4d33-873b-1e789d262e36" />
 
 Схема — **«звезда» (star schema)**:
