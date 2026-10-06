@@ -71,6 +71,8 @@ PDF-файл с прайсом на товары.
 
 ### 4. Справочник регионов (`regions.txt`)
 
+<img width="1033" height="334" alt="image" src="https://github.com/user-attachments/assets/d63d1ae5-b59a-4bc2-9402-9b223f0fa2af" />
+
 Текстовый файл с разделителем `;`.
 
 **Поля:** Город, Регион, Федеральный округ.
