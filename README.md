@@ -55,6 +55,7 @@ XML-файл со списком компаний.
 
 ### 3. Прайс-лист (`price.pdf`)
 <img width="942" height="633" alt="image" src="https://github.com/user-attachments/assets/a147ad93-060d-47f9-a360-767504ab6a74" />
+
 PDF-файл с прайсом на товары.
 
 **Поля:** Артикул, Наименование, Тип, Объем, Цена.
