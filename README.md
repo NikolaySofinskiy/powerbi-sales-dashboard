@@ -201,7 +201,7 @@ PDF-файл с прайсом на товары.
 Среднее количество товаров в заказе, шт. = DIVIDE([Продажи, шт.], [Количество заказов, шт.])
 
 ### 5. Визуализация (дашборд)
-<img width="1452" height="822" alt="image" src="https://github.com/user-attachments/assets/6f4e8e7f-a2f8-498e-bc0c-27ed90b663a5" />
+<img width="1455" height="825" alt="image" src="https://github.com/user-attachments/assets/cb17d801-c611-4a0e-9ccb-d1f44591ea9c" />
 
 - **Карточки:** общая выручка, продажи в шт, средний чек
 - **Линейчатая диаграмма с накоплением:** выручка по компаниям и товарам.
