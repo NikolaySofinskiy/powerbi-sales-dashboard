@@ -54,7 +54,7 @@ XML-файл со списком компаний.
 ⚠️ Требуется извлечь город и нормализовать его для связи со справочником регионов.
 
 ### 3. Прайс-лист (`price.pdf`)
-<img width="973" height="229" alt="image" src="https://github.com/user-attachments/assets/c0bd1f05-80aa-44e8-bd79-b55d0ec211ef" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/c0bd1f05-80aa-44e8-bd79-b55d0ec211ef" />
 PDF-файл с прайсом на товары.
 
 **Поля:** Артикул, Наименование, Тип, Объем, Цена.
