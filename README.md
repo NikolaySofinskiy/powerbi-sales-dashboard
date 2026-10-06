@@ -65,7 +65,7 @@ PDF-файл с прайсом на товары.
 - Наименование содержит бренд и страну-производителя в скобках.
 
 ### 4. Справочник регионов (`regions.txt`)
-<img width="1013" height="261" alt="image" src="https://github.com/user-attachments/assets/5ea439e4-d143-4eab-b15e-044bec104cac" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/5ea439e4-d143-4eab-b15e-044bec104cac" />
 Текстовый файл с разделителем `;`.
 
 **Поля:** Город, Регион, Федеральный округ.
